@@ -11,6 +11,8 @@ public class Main {
         Date date = new Date();
 
 
+        System.out.println("sss");
+
         System.out.println("aa");
         String a = "afddsa";
         String c = "afddsa";
