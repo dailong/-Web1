@@ -10,11 +10,9 @@ public class Main {
 
         Date date = new Date();
 
-
         System.out.println("sss");
         System.out.println("ddd");
-
-        System.out.println("aa");
+        System.out.println("dds");
         String a = "afddsa";
         String c = "afddsa";
         String d = "afddsa";
