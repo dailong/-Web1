@@ -19,7 +19,7 @@ import javax.servlet.http.Part;
 public class UploadServlet extends HttpServlet {
 
     /**
-     dailong1
+     dailong12
      **/
     public void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
