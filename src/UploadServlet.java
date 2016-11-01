@@ -18,7 +18,13 @@ import javax.servlet.http.Part;
 @MultipartConfig//标识Servlet支持文件上传
 public class UploadServlet extends HttpServlet {
 
-
+    /**
+     *
+     * @param request
+     * @param response
+     * @throws ServletException
+     * @throws IOException
+     */
     public void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         request.setCharacterEncoding("utf-8");
