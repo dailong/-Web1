@@ -19,7 +19,7 @@ import javax.servlet.http.Part;
 public class UploadServlet extends HttpServlet {
 
     /**
-     add12
+     add12fetch
      **/
     public void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
