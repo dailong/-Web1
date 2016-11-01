@@ -19,12 +19,8 @@ import javax.servlet.http.Part;
 public class UploadServlet extends HttpServlet {
 
     /**
-     *dd
-     * @param request
-     * @param response
-     * @throws ServletException
-     * @throws IOException
-     */
+     add122422
+     **/
     public void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         request.setCharacterEncoding("utf-8");
